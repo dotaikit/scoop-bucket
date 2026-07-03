@@ -1,17 +1,17 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Agent Config Manager for shell-scoped AI agent profiles",
   "homepage": "https://github.com/dotaikit/acm",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dotaikit/acm/releases/download/v0.1.2/acm_0.1.2_windows_amd64.zip",
-      "hash": "94f7fc05070959ec347adfcfb93f0e467d052de9da0e9b93cda7bd3013e7d892",
-      "extract_dir": "acm_0.1.2_windows_amd64"
+      "url": "https://github.com/dotaikit/acm/releases/download/v0.1.3/acm_0.1.3_windows_amd64.zip",
+      "hash": "a5cca17a9bf43176950939e452e5677e383e558af5d5629afc95a25efca9c476",
+      "extract_dir": "acm_0.1.3_windows_amd64"
     },
     "arm64": {
-      "url": "https://github.com/dotaikit/acm/releases/download/v0.1.2/acm_0.1.2_windows_arm64.zip",
-      "hash": "6931b9276f1032fa0829c388e731d7ce1896a9db57fd52095980c4d4071303e5",
-      "extract_dir": "acm_0.1.2_windows_arm64"
+      "url": "https://github.com/dotaikit/acm/releases/download/v0.1.3/acm_0.1.3_windows_arm64.zip",
+      "hash": "3ab3c3ebcc5d75b8b37d092fdf9734dd567197adec4ed1e6159df0250a676eec",
+      "extract_dir": "acm_0.1.3_windows_arm64"
     }
   },
   "bin": "acm.exe"
